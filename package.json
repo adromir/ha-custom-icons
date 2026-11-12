@@ -1,0 +1,28 @@
+{
+  "name": "ha-custom-icons",
+  "version": "1.0.0",
+  "description": "Custom Home Assistant Icon Pack with 48 specialized smart home icons in 4 variants (Solid, Outline, Black, White)",
+  "main": "ha-custom-icons.js",
+  "scripts": {
+    "build": "node scripts/generate_icons.js"
+  },
+  "keywords": [
+    "home-assistant",
+    "homeassistant",
+    "hacs",
+    "lovelace",
+    "icons",
+    "custom-icons",
+    "svg"
+  ],
+  "author": "Adromir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adromir/ha-custom-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adromir/ha-custom-icons/issues"
+  },
+  "homepage": "https://github.com/adromir/ha-custom-icons#readme"
+}
