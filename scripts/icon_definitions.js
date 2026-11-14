@@ -28,10 +28,10 @@ module.exports = [
     id: "washing-machine-spin",
     name: "Washing Machine Spin",
     category: "Appliances",
-    keywords: ["waschmaschine", "schleudern", "spin", "centrifuge", "rpm", "laundry"],
-    description: "Washing machine drum with centrifugal rotation spiral arrow",
-    solid: "M6 2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm6 5a6 6 0 1 0 6 6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 3.5 2.1l-1.5.8A2.3 2.3 0 0 0 12 10.7a2.3 2.3 0 0 0-2.3 2.3 2.3 2.3 0 0 0 2.3 2.3c1.1 0 1.9-.7 2.2-1.7h-2.2v-1.5H16a3.8 3.8 0 0 1-4 4.7 3.8 3.8 0 0 1-3.8-3.8A3.8 3.8 0 0 1 12 9z",
-    outline: "M6 2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm0 2v16h12V4H6zm6 4a5 5 0 1 1-5 5 5 5 0 0 1 5-5zm0 1.8a3.2 3.2 0 0 1 2.8 1.7l-1.3.7a1.8 1.8 0 0 0-1.5-.9 1.8 1.8 0 0 0-1.8 1.8 1.8 1.8 0 0 0 1.8 1.8c.8 0 1.4-.5 1.7-1.2H12v-1.2h3.3a3 3 0 0 1-3.3 3.6 3 3 0 0 1-3-3 3 3 0 0 1 3-3.2z"
+    keywords: ["waschmaschine", "schleudern", "spin", "centrifuge", "rpm", "laundry", "spirale"],
+    description: "Washing machine drum with high-speed centrifugal whirlpool spiral",
+    solid: "M6 2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zM8 4.2a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm3 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2zM12 7a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zM12 7.2a5.8 5.8 0 1 1-5.8 5.8 5.8 5.8 0 0 1 5.8-5.8zm0 1.2a4.6 4.6 0 1 0 4.6 4.6 4.6 4.6 0 0 0-4.6-4.6zM16.2 13A4.2 4.2 0 0 1 7.8 13A3.4 3.4 0 0 1 14.6 13A2.6 2.6 0 0 1 9.4 13A1.8 1.8 0 0 1 13 13A1 1 0 0 1 11 13a.7.7 0 0 1 1.4 0A.4.4 0 0 0 11.8 13A1.2 1.2 0 0 0 10.6 13A2 2 0 0 0 13.4 13A2.8 2.8 0 0 0 8.8 13A3.6 3.6 0 0 0 15.2 13a.7.7 0 0 1 1 0Z",
+    outline: "M6 2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm0 2v16h12V4H6zM8 4.5a1 1 0 1 1-1 1 1 1 0 0 1 1-1zm3 0a1 1 0 1 1-1 1 1 1 0 0 1 1-1zM12 7.2a5.8 5.8 0 1 1-5.8 5.8 5.8 5.8 0 0 1 5.8-5.8zm0 1.2a4.6 4.6 0 1 0 4.6 4.6 4.6 4.6 0 0 0-4.6-4.6zM16.2 13A4.2 4.2 0 0 1 7.8 13A3.4 3.4 0 0 1 14.6 13A2.6 2.6 0 0 1 9.4 13A1.8 1.8 0 0 1 13 13A1 1 0 0 1 11 13a.7.7 0 0 1 1.4 0A.4.4 0 0 0 11.8 13A1.2 1.2 0 0 0 10.6 13A2 2 0 0 0 13.4 13A2.8 2.8 0 0 0 8.8 13A3.6 3.6 0 0 0 15.2 13a.7.7 0 0 1 1 0Z"
   },
   {
     id: "washing-machine-drain",
@@ -155,8 +155,8 @@ module.exports = [
     category: "Appliances",
     keywords: ["besteckschublade", "cutlery", "geschirrspüler", "dishwasher", "fork", "knife", "spoon"],
     description: "Pullout dishwasher top cutlery tray holding fork, knife, and spoon",
-    solid: "M3 4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4zm3 2v4h1V6h1v4h1V6h1v4.5A2.5 2.5 0 0 1 9.5 13v5H8.5v-5A2.5 2.5 0 0 1 6 10.5V6zm6 0v7a2 2 0 0 1-2-2V6h2zm1 0h1.5a1.5 1.5 0 0 1 1.5 1.5v4.5H13V6zm3 7h1.5v5H16v-5z",
-    outline: "M3 4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4zm2 0v14h14V4H5zm3 2h1v3h1V6h1v3.5a1.5 1.5 0 0 1-1.5 1.5v6H8.5v-6A1.5 1.5 0 0 1 7 9.5V6zm4 0h1v5a1 1 0 0 1-1 1H11V6h1zm3 0h1a1 1 0 0 1 1 1v4h-2V6zm1 6h1v6h-1v-6z"
+    solid: "M3 4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4zm2 1v14h14V5H5zM7 7v3.5a1 1 0 0 0 .8.9v5.6h1.4v-5.6a1 1 0 0 0 .8-.9V7h-.8v2.5h-.7V7h-.8v2.5h-.7V7zm5 0v5a1.2 1.2 0 0 0 1 1v4h1.5v-4a1.2 1.2 0 0 0 1-1V9a2 2 0 0 0-2-2h-1.5zm4.5 0a1.5 2.5 0 0 0 0 5v5h1.5v-5a1.5 2.5 0 0 0 0-5z",
+    outline: "M3 4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4zm2 0v16h14V4H5zm1 2h12v12H6V6zM7.5 7.5v3a.8.8 0 0 0 .6.7v4.8h1.2v-4.8a.8.8 0 0 0 .6-.7v-3H9.2v2h-.6v-2h-.6v2h-.5zM12 7.5v4.5a1 1 0 0 0 .8.8v3.2h1.2v-3.2a1 1 0 0 0 .8-.8V9a1.5 1.5 0 0 0-1.5-1.5H12zM16 7.5a1.2 2 0 0 0 0 4v4.5h1.2v-4.5a1.2 2 0 0 0 0-4z"
   },
   {
     id: "dishwasher-salt-refill",
@@ -185,9 +185,9 @@ module.exports = [
     name: "Robot Mop Washing",
     category: "Appliances",
     keywords: ["saugroboter", "mop", "wischen", "station", "reinigung", "robot", "cleaning"],
-    description: "Circular vacuum docking over spinning scrub rollers with water spray",
-    solid: "M12 2a9 9 0 0 0-8.9 7.7L7.5 11h9l4.4-1.3A9 9 0 0 0 12 2zm-5 13a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm10 0a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm-5 1c.5 1 1.5 2 1.5 2.8a1.5 1.5 0 0 1-3 0c0-.8 1-1.8 1.5-2.8z",
-    outline: "M12 2a9 9 0 0 0-8.9 7.7L7.5 11h9l4.4-1.3A9 9 0 0 0 12 2zm0 2a7 7 0 0 1 6.6 4.7L15 9.7H9L5.4 8.7A7 7 0 0 1 12 4zm-5 11a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.8a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4zm10-1.8a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.8a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4z"
+    description: "Circular robot vacuum with LiDAR and dual rotating mop cleaning pads",
+    solid: "M12 2a8 8 0 0 0-8 8c0 2.2.9 4.2 2.3 5.6l.8-.8A6.8 6.8 0 0 1 5.2 10a6.8 6.8 0 0 1 13.6 0c0 1.8-.7 3.5-1.9 4.8l.8.8A8 8 0 0 0 12 2zM12 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-4.5 12a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.2a1.8 1.8 0 1 1-1.8 1.8 1.8 1.8 0 0 1 1.8-1.8zM16.5 16a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.2a1.8 1.8 0 1 1-1.8 1.8 1.8 1.8 0 0 1 1.8-1.8zm-5.5 1a1 1 0 1 0 2 0 1 1 0 0 0-2 0z",
+    outline: "M12 2a8 8 0 0 0-8 8c0 2.4 1 4.5 2.6 6l.9-.9A6.7 6.7 0 0 1 5.5 10a6.5 6.5 0 0 1 13 0c0 1.9-.8 3.7-2 5.1l.9.9A8 8 0 0 0 12 2zm0 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm0 1.3a.7.7 0 1 1-.7.7.7.7 0 0 1 .7-.7zM7.5 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.3a1.7 1.7 0 1 1-1.7 1.7 1.7 1.7 0 0 1 1.7-1.7zm9-1.3a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 1.3a1.7 1.7 0 1 1-1.7 1.7 1.7 1.7 0 0 1 1.7-1.7z"
   },
   {
     id: "robot-water-dirty-full",

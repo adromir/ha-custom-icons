@@ -1,6 +1,6 @@
 {
   "name": "ha-custom-icons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Custom Home Assistant Icon Pack with 48 specialized smart home icons in 4 variants (Solid, Outline, Black, White)",
   "main": "ha-custom-icons.js",
   "scripts": {

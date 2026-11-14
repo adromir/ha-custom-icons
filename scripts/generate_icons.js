@@ -87,7 +87,7 @@ console.log(`Generated ${totalFilesWritten} standalone SVG files in icons/`);
 // Build standalone frontend plugin JS
 const bundleContent = `/**
  * Custom Home Assistant Icons (ha-custom-icons)
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Adromir (https://github.com/adromir)
  * 
  * Provides ${icons.length} custom smart home icons in 4 variants (Solid, Outline, Black, White).
