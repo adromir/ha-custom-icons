@@ -4120,6 +4120,727 @@
     "variant": "white",
     "base": "system-health-pulse"
   }
+,
+  "occupancy-helper": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c4.84 0 8.87-3.44 9.8-8h-2.06c-.89 3.45-4.01 6-7.74 6-4.42 0-8-3.58-8-8s3.58-8 8-8c2.21 0 4.21.9 5.66 2.34L15 9h7V2l-2.93 2.93C17.26 3.12 14.76 2 12 2z M6.8 10.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 1 0 0-3.2z M9.6 8.8l-1.1 1.1c.65.55 1.05 1.3 1.05 2.1s-.4 1.55-1.05 2.1l1.1 1.1c.95-.85 1.55-2 1.55-3.2s-.6-2.35-1.55-3.2z M11.8 6.6l-1.1 1.1c1.2 1.05 1.95 2.6 1.95 4.3s-.75 3.25-1.95 4.3l1.1 1.1c1.5-1.35 2.45-3.25 2.45-5.4s-.95-4.05-2.45-5.4z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "belegung",
+        "occupancy",
+        "anwesenheit",
+        "bewegung",
+        "sensor",
+        "helper",
+        "helper",
+        "system"
+    ],
+    "base": "occupancy-helper",
+    "variant": "solid"
+},
+  "occupancy-helper-solid": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c4.84 0 8.87-3.44 9.8-8h-2.06c-.89 3.45-4.01 6-7.74 6-4.42 0-8-3.58-8-8s3.58-8 8-8c2.21 0 4.21.9 5.66 2.34L15 9h7V2l-2.93 2.93C17.26 3.12 14.76 2 12 2z M6.8 10.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 1 0 0-3.2z M9.6 8.8l-1.1 1.1c.65.55 1.05 1.3 1.05 2.1s-.4 1.55-1.05 2.1l1.1 1.1c.95-.85 1.55-2 1.55-3.2s-.6-2.35-1.55-3.2z M11.8 6.6l-1.1 1.1c1.2 1.05 1.95 2.6 1.95 4.3s-.75 3.25-1.95 4.3l1.1 1.1c1.5-1.35 2.45-3.25 2.45-5.4s-.95-4.05-2.45-5.4z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "belegung",
+        "occupancy",
+        "anwesenheit",
+        "bewegung",
+        "sensor",
+        "helper",
+        "helper",
+        "system"
+    ],
+    "base": "occupancy-helper",
+    "variant": "solid"
+},
+  "occupancy-helper-outline": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c4.84 0 8.87-3.44 9.8-8h-2.06c-.89 3.45-4.01 6-7.74 6-4.42 0-8-3.58-8-8s3.58-8 8-8c2.21 0 4.21.9 5.66 2.34L15 9h7V2l-2.93 2.93C17.26 3.12 14.76 2 12 2z M6.8 10.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 1 0 0-3.2z M9.6 8.8l-1.1 1.1c.65.55 1.05 1.3 1.05 2.1s-.4 1.55-1.05 2.1l1.1 1.1c.95-.85 1.55-2 1.55-3.2s-.6-2.35-1.55-3.2z M11.8 6.6l-1.1 1.1c1.2 1.05 1.95 2.6 1.95 4.3s-.75 3.25-1.95 4.3l1.1 1.1c1.5-1.35 2.45-3.25 2.45-5.4s-.95-4.05-2.45-5.4z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "belegung",
+        "occupancy",
+        "anwesenheit",
+        "bewegung",
+        "sensor",
+        "helper",
+        "helper",
+        "system"
+    ],
+    "base": "occupancy-helper",
+    "variant": "outline"
+},
+  "occupancy-helper-black": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c4.84 0 8.87-3.44 9.8-8h-2.06c-.89 3.45-4.01 6-7.74 6-4.42 0-8-3.58-8-8s3.58-8 8-8c2.21 0 4.21.9 5.66 2.34L15 9h7V2l-2.93 2.93C17.26 3.12 14.76 2 12 2z M6.8 10.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 1 0 0-3.2z M9.6 8.8l-1.1 1.1c.65.55 1.05 1.3 1.05 2.1s-.4 1.55-1.05 2.1l1.1 1.1c.95-.85 1.55-2 1.55-3.2s-.6-2.35-1.55-3.2z M11.8 6.6l-1.1 1.1c1.2 1.05 1.95 2.6 1.95 4.3s-.75 3.25-1.95 4.3l1.1 1.1c1.5-1.35 2.45-3.25 2.45-5.4s-.95-4.05-2.45-5.4z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "belegung",
+        "occupancy",
+        "anwesenheit",
+        "bewegung",
+        "sensor",
+        "helper",
+        "helper",
+        "system"
+    ],
+    "base": "occupancy-helper",
+    "variant": "black"
+},
+  "occupancy-helper-white": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c4.84 0 8.87-3.44 9.8-8h-2.06c-.89 3.45-4.01 6-7.74 6-4.42 0-8-3.58-8-8s3.58-8 8-8c2.21 0 4.21.9 5.66 2.34L15 9h7V2l-2.93 2.93C17.26 3.12 14.76 2 12 2z M6.8 10.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 1 0 0-3.2z M9.6 8.8l-1.1 1.1c.65.55 1.05 1.3 1.05 2.1s-.4 1.55-1.05 2.1l1.1 1.1c.95-.85 1.55-2 1.55-3.2s-.6-2.35-1.55-3.2z M11.8 6.6l-1.1 1.1c1.2 1.05 1.95 2.6 1.95 4.3s-.75 3.25-1.95 4.3l1.1 1.1c1.5-1.35 2.45-3.25 2.45-5.4s-.95-4.05-2.45-5.4z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "belegung",
+        "occupancy",
+        "anwesenheit",
+        "bewegung",
+        "sensor",
+        "helper",
+        "helper",
+        "system"
+    ],
+    "base": "occupancy-helper",
+    "variant": "white"
+},
+  "wake-up-light": {
+    "path": "M7.88 3.39L6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zM6.5 14.5h11v1.5H6.5zM8.5 14a3.5 3.5 0 0 1 7 0H8.5zM11.25 7.5h1.5v2h-1.5zM7.8 9.1l1.06-1.06 1.41 1.41L9.21 10.51zM14.7 9.1l1.41-1.41 1.06 1.06-1.41 1.41zM6.5 19.5l-1.5 2 1.6 1.2 1.5-2-1.6-1.2zm11 0l-1.6 1.2 1.5 2 1.6-1.2-1.5-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "wecker",
+        "sonnenaufgang",
+        "sunrise",
+        "alarm",
+        "licht",
+        "wake-up",
+        "light",
+        "helper",
+        "system"
+    ],
+    "base": "wake-up-light",
+    "variant": "solid"
+},
+  "wake-up-light-solid": {
+    "path": "M7.88 3.39L6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zM6.5 14.5h11v1.5H6.5zM8.5 14a3.5 3.5 0 0 1 7 0H8.5zM11.25 7.5h1.5v2h-1.5zM7.8 9.1l1.06-1.06 1.41 1.41L9.21 10.51zM14.7 9.1l1.41-1.41 1.06 1.06-1.41 1.41zM6.5 19.5l-1.5 2 1.6 1.2 1.5-2-1.6-1.2zm11 0l-1.6 1.2 1.5 2 1.6-1.2-1.5-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "wecker",
+        "sonnenaufgang",
+        "sunrise",
+        "alarm",
+        "licht",
+        "wake-up",
+        "light",
+        "helper",
+        "system"
+    ],
+    "base": "wake-up-light",
+    "variant": "solid"
+},
+  "wake-up-light-outline": {
+    "path": "M7.88 3.39L6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zM6.5 14.5h11v1.5H6.5zM8.5 14a3.5 3.5 0 0 1 7 0H8.5zM11.25 7.5h1.5v2h-1.5zM7.8 9.1l1.06-1.06 1.41 1.41L9.21 10.51zM14.7 9.1l1.41-1.41 1.06 1.06-1.41 1.41zM6.5 19.5l-1.5 2 1.6 1.2 1.5-2-1.6-1.2zm11 0l-1.6 1.2 1.5 2 1.6-1.2-1.5-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "wecker",
+        "sonnenaufgang",
+        "sunrise",
+        "alarm",
+        "licht",
+        "wake-up",
+        "light",
+        "helper",
+        "system"
+    ],
+    "base": "wake-up-light",
+    "variant": "outline"
+},
+  "wake-up-light-black": {
+    "path": "M7.88 3.39L6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zM6.5 14.5h11v1.5H6.5zM8.5 14a3.5 3.5 0 0 1 7 0H8.5zM11.25 7.5h1.5v2h-1.5zM7.8 9.1l1.06-1.06 1.41 1.41L9.21 10.51zM14.7 9.1l1.41-1.41 1.06 1.06-1.41 1.41zM6.5 19.5l-1.5 2 1.6 1.2 1.5-2-1.6-1.2zm11 0l-1.6 1.2 1.5 2 1.6-1.2-1.5-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "wecker",
+        "sonnenaufgang",
+        "sunrise",
+        "alarm",
+        "licht",
+        "wake-up",
+        "light",
+        "helper",
+        "system"
+    ],
+    "base": "wake-up-light",
+    "variant": "black"
+},
+  "wake-up-light-white": {
+    "path": "M7.88 3.39L6.6 1.86 2 5.71l1.29 1.53 4.59-3.85zM22 5.72l-4.6-3.86-1.29 1.53 4.6 3.86L22 5.72zM12 4c-4.97 0-9 4.03-9 9s4.02 9 9 9a9 9 0 0 0 0-18zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7zM6.5 14.5h11v1.5H6.5zM8.5 14a3.5 3.5 0 0 1 7 0H8.5zM11.25 7.5h1.5v2h-1.5zM7.8 9.1l1.06-1.06 1.41 1.41L9.21 10.51zM14.7 9.1l1.41-1.41 1.06 1.06-1.41 1.41zM6.5 19.5l-1.5 2 1.6 1.2 1.5-2-1.6-1.2zm11 0l-1.6 1.2 1.5 2 1.6-1.2-1.5-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "wecker",
+        "sonnenaufgang",
+        "sunrise",
+        "alarm",
+        "licht",
+        "wake-up",
+        "light",
+        "helper",
+        "system"
+    ],
+    "base": "wake-up-light",
+    "variant": "white"
+},
+  "theme-switch-engine": {
+    "path": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.2-.64-1.67-.08-.1-.13-.21-.13-.33 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8v16z M6.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M9.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M14.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z M17.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "theme",
+        "palette",
+        "dark",
+        "light",
+        "engine",
+        "farben",
+        "switch",
+        "helper",
+        "system"
+    ],
+    "base": "theme-switch-engine",
+    "variant": "solid"
+},
+  "theme-switch-engine-solid": {
+    "path": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.2-.64-1.67-.08-.1-.13-.21-.13-.33 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8v16z M6.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M9.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M14.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z M17.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "theme",
+        "palette",
+        "dark",
+        "light",
+        "engine",
+        "farben",
+        "switch",
+        "helper",
+        "system"
+    ],
+    "base": "theme-switch-engine",
+    "variant": "solid"
+},
+  "theme-switch-engine-outline": {
+    "path": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.2-.64-1.67-.08-.1-.13-.21-.13-.33 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8v16z M6.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M9.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M14.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z M17.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "theme",
+        "palette",
+        "dark",
+        "light",
+        "engine",
+        "farben",
+        "switch",
+        "helper",
+        "system"
+    ],
+    "base": "theme-switch-engine",
+    "variant": "outline"
+},
+  "theme-switch-engine-black": {
+    "path": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.2-.64-1.67-.08-.1-.13-.21-.13-.33 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8v16z M6.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M9.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M14.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z M17.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "theme",
+        "palette",
+        "dark",
+        "light",
+        "engine",
+        "farben",
+        "switch",
+        "helper",
+        "system"
+    ],
+    "base": "theme-switch-engine",
+    "variant": "black"
+},
+  "theme-switch-engine-white": {
+    "path": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10c1.38 0 2.5-1.12 2.5-2.5 0-.61-.23-1.2-.64-1.67-.08-.1-.13-.21-.13-.33 0-.28.22-.5.5-.5H16c3.31 0 6-2.69 6-6 0-4.96-4.49-9-10-9zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8v16z M6.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M9.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 1 0 0-3z M14.5 6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z M17.5 10a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm0 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "theme",
+        "palette",
+        "dark",
+        "light",
+        "engine",
+        "farben",
+        "switch",
+        "helper",
+        "system"
+    ],
+    "base": "theme-switch-engine",
+    "variant": "white"
+},
+  "annual-date-period": {
+    "path": "M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "kalender",
+        "annual",
+        "datum",
+        "jahr",
+        "period",
+        "zeitraum",
+        "helper",
+        "system"
+    ],
+    "base": "annual-date-period",
+    "variant": "solid"
+},
+  "annual-date-period-solid": {
+    "path": "M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "kalender",
+        "annual",
+        "datum",
+        "jahr",
+        "period",
+        "zeitraum",
+        "helper",
+        "system"
+    ],
+    "base": "annual-date-period",
+    "variant": "solid"
+},
+  "annual-date-period-outline": {
+    "path": "M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "kalender",
+        "annual",
+        "datum",
+        "jahr",
+        "period",
+        "zeitraum",
+        "helper",
+        "system"
+    ],
+    "base": "annual-date-period",
+    "variant": "outline"
+},
+  "annual-date-period-black": {
+    "path": "M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "kalender",
+        "annual",
+        "datum",
+        "jahr",
+        "period",
+        "zeitraum",
+        "helper",
+        "system"
+    ],
+    "base": "annual-date-period",
+    "variant": "black"
+},
+  "annual-date-period-white": {
+    "path": "M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "kalender",
+        "annual",
+        "datum",
+        "jahr",
+        "period",
+        "zeitraum",
+        "helper",
+        "system"
+    ],
+    "base": "annual-date-period",
+    "variant": "white"
+},
+  "limit-helper": {
+    "path": "M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm0 16c-3.87 0-7-3.13-7-7 0-3.87 3.13-7 7-7 3.87 0 7 3.13 7 7 0 3.87-3.13 7-7 7zm1-12h-2v5h2V7zm0 7h-2v2h2v-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "limit",
+        "grenzwert",
+        "hysterese",
+        "gauge",
+        "schwellwert",
+        "helper",
+        "system"
+    ],
+    "base": "limit-helper",
+    "variant": "solid"
+},
+  "limit-helper-solid": {
+    "path": "M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm0 16c-3.87 0-7-3.13-7-7 0-3.87 3.13-7 7-7 3.87 0 7 3.13 7 7 0 3.87-3.13 7-7 7zm1-12h-2v5h2V7zm0 7h-2v2h2v-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "limit",
+        "grenzwert",
+        "hysterese",
+        "gauge",
+        "schwellwert",
+        "helper",
+        "system"
+    ],
+    "base": "limit-helper",
+    "variant": "solid"
+},
+  "limit-helper-outline": {
+    "path": "M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm0 16c-3.87 0-7-3.13-7-7 0-3.87 3.13-7 7-7 3.87 0 7 3.13 7 7 0 3.87-3.13 7-7 7zm1-12h-2v5h2V7zm0 7h-2v2h2v-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "limit",
+        "grenzwert",
+        "hysterese",
+        "gauge",
+        "schwellwert",
+        "helper",
+        "system"
+    ],
+    "base": "limit-helper",
+    "variant": "outline"
+},
+  "limit-helper-black": {
+    "path": "M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm0 16c-3.87 0-7-3.13-7-7 0-3.87 3.13-7 7-7 3.87 0 7 3.13 7 7 0 3.87-3.13 7-7 7zm1-12h-2v5h2V7zm0 7h-2v2h2v-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "limit",
+        "grenzwert",
+        "hysterese",
+        "gauge",
+        "schwellwert",
+        "helper",
+        "system"
+    ],
+    "base": "limit-helper",
+    "variant": "black"
+},
+  "limit-helper-white": {
+    "path": "M12 3a9 9 0 0 0-9 9c0 4.97 4.03 9 9 9s9-4.03 9-9a9 9 0 0 0-9-9zm0 16c-3.87 0-7-3.13-7-7 0-3.87 3.13-7 7-7 3.87 0 7 3.13 7 7 0 3.87-3.13 7-7 7zm1-12h-2v5h2V7zm0 7h-2v2h2v-2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "limit",
+        "grenzwert",
+        "hysterese",
+        "gauge",
+        "schwellwert",
+        "helper",
+        "system"
+    ],
+    "base": "limit-helper",
+    "variant": "white"
+},
+  "range-helper": {
+    "path": "M3 17h18v2H3v-2zm0-7h18v2H3v-2zm0-7h18v2H3V3z M8 5h8v6H8V5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "range",
+        "bereich",
+        "slider",
+        "intervall",
+        "spanne",
+        "helper",
+        "system"
+    ],
+    "base": "range-helper",
+    "variant": "solid"
+},
+  "range-helper-solid": {
+    "path": "M3 17h18v2H3v-2zm0-7h18v2H3v-2zm0-7h18v2H3V3z M8 5h8v6H8V5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "range",
+        "bereich",
+        "slider",
+        "intervall",
+        "spanne",
+        "helper",
+        "system"
+    ],
+    "base": "range-helper",
+    "variant": "solid"
+},
+  "range-helper-outline": {
+    "path": "M3 17h18v2H3v-2zm0-7h18v2H3v-2zm0-7h18v2H3V3z M8 5h8v6H8V5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "range",
+        "bereich",
+        "slider",
+        "intervall",
+        "spanne",
+        "helper",
+        "system"
+    ],
+    "base": "range-helper",
+    "variant": "outline"
+},
+  "range-helper-black": {
+    "path": "M3 17h18v2H3v-2zm0-7h18v2H3v-2zm0-7h18v2H3V3z M8 5h8v6H8V5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "range",
+        "bereich",
+        "slider",
+        "intervall",
+        "spanne",
+        "helper",
+        "system"
+    ],
+    "base": "range-helper",
+    "variant": "black"
+},
+  "range-helper-white": {
+    "path": "M3 17h18v2H3v-2zm0-7h18v2H3v-2zm0-7h18v2H3V3z M8 5h8v6H8V5z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "range",
+        "bereich",
+        "slider",
+        "intervall",
+        "spanne",
+        "helper",
+        "system"
+    ],
+    "base": "range-helper",
+    "variant": "white"
+},
+  "invert-helper": {
+    "path": "M7 10l5 5 5-5H7z M17 14l-5-5-5 5h10z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "invert",
+        "umkehren",
+        "invertieren",
+        "negieren",
+        "toggle",
+        "helper",
+        "system"
+    ],
+    "base": "invert-helper",
+    "variant": "solid"
+},
+  "invert-helper-solid": {
+    "path": "M7 10l5 5 5-5H7z M17 14l-5-5-5 5h10z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "invert",
+        "umkehren",
+        "invertieren",
+        "negieren",
+        "toggle",
+        "helper",
+        "system"
+    ],
+    "base": "invert-helper",
+    "variant": "solid"
+},
+  "invert-helper-outline": {
+    "path": "M7 10l5 5 5-5H7z M17 14l-5-5-5 5h10z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "invert",
+        "umkehren",
+        "invertieren",
+        "negieren",
+        "toggle",
+        "helper",
+        "system"
+    ],
+    "base": "invert-helper",
+    "variant": "outline"
+},
+  "invert-helper-black": {
+    "path": "M7 10l5 5 5-5H7z M17 14l-5-5-5 5h10z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "invert",
+        "umkehren",
+        "invertieren",
+        "negieren",
+        "toggle",
+        "helper",
+        "system"
+    ],
+    "base": "invert-helper",
+    "variant": "black"
+},
+  "invert-helper-white": {
+    "path": "M7 10l5 5 5-5H7z M17 14l-5-5-5 5h10z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "invert",
+        "umkehren",
+        "invertieren",
+        "negieren",
+        "toggle",
+        "helper",
+        "system"
+    ],
+    "base": "invert-helper",
+    "variant": "white"
+},
+  "passive-device-tracker": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "tracker",
+        "radar",
+        "lan",
+        "ble",
+        "wlan",
+        "device",
+        "passive",
+        "helper",
+        "system"
+    ],
+    "base": "passive-device-tracker",
+    "variant": "solid"
+},
+  "passive-device-tracker-solid": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "tracker",
+        "radar",
+        "lan",
+        "ble",
+        "wlan",
+        "device",
+        "passive",
+        "helper",
+        "system"
+    ],
+    "base": "passive-device-tracker",
+    "variant": "solid"
+},
+  "passive-device-tracker-outline": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "tracker",
+        "radar",
+        "lan",
+        "ble",
+        "wlan",
+        "device",
+        "passive",
+        "helper",
+        "system"
+    ],
+    "base": "passive-device-tracker",
+    "variant": "outline"
+},
+  "passive-device-tracker-black": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "tracker",
+        "radar",
+        "lan",
+        "ble",
+        "wlan",
+        "device",
+        "passive",
+        "helper",
+        "system"
+    ],
+    "base": "passive-device-tracker",
+    "variant": "black"
+},
+  "passive-device-tracker-white": {
+    "path": "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "tracker",
+        "radar",
+        "lan",
+        "ble",
+        "wlan",
+        "device",
+        "passive",
+        "helper",
+        "system"
+    ],
+    "base": "passive-device-tracker",
+    "variant": "white"
+},
+  "virtual-device-entities": {
+    "path": "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4h16V6H4v2zm0 4h16v-2H4v2zm0 4h16v-2H4v2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "virtual",
+        "device",
+        "entities",
+        "simuliert",
+        "test",
+        "virtuell",
+        "helper",
+        "system"
+    ],
+    "base": "virtual-device-entities",
+    "variant": "solid"
+},
+  "virtual-device-entities-solid": {
+    "path": "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4h16V6H4v2zm0 4h16v-2H4v2zm0 4h16v-2H4v2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "virtual",
+        "device",
+        "entities",
+        "simuliert",
+        "test",
+        "virtuell",
+        "helper",
+        "system"
+    ],
+    "base": "virtual-device-entities",
+    "variant": "solid"
+},
+  "virtual-device-entities-outline": {
+    "path": "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4h16V6H4v2zm0 4h16v-2H4v2zm0 4h16v-2H4v2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "virtual",
+        "device",
+        "entities",
+        "simuliert",
+        "test",
+        "virtuell",
+        "helper",
+        "system"
+    ],
+    "base": "virtual-device-entities",
+    "variant": "outline"
+},
+  "virtual-device-entities-black": {
+    "path": "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4h16V6H4v2zm0 4h16v-2H4v2zm0 4h16v-2H4v2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "virtual",
+        "device",
+        "entities",
+        "simuliert",
+        "test",
+        "virtuell",
+        "helper",
+        "system"
+    ],
+    "base": "virtual-device-entities",
+    "variant": "black"
+},
+  "virtual-device-entities-white": {
+    "path": "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm0 4h16V6H4v2zm0 4h16v-2H4v2zm0 4h16v-2H4v2z",
+    "category": "Smart Home & Helpers",
+    "keywords": [
+        "virtual",
+        "device",
+        "entities",
+        "simuliert",
+        "test",
+        "virtuell",
+        "helper",
+        "system"
+    ],
+    "base": "virtual-device-entities",
+    "variant": "white"
+}
 };
 
   async function getIcon(name) {

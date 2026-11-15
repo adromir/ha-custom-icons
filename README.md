@@ -13,6 +13,17 @@ Fills the major gaps in standard Material Design Icons (`mdi:*`) for modern Euro
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adromir/ha-custom-icons/main/Screenshots/custom-icons-gallery.png" alt="Custom Icons Interactive Gallery Card" width="800">
+</p>
+<p align="center">
+  <em>Built-in interactive Lovelace gallery card (<code>&lt;ha-custom-icons-gallery&gt;</code>): real-time search, category filtering, variant switching (Solid, Outline, Black, White), and one-click copy to clipboard.</em>
+</p>
+
+---
+
 ## ✨ Key Advantages
 
 - 🎯 **Tailored for Smart Homes**: Purpose-built icons for washing cycle stages (Prewash, Rinse, Spin, Drain, Rinse Hold), coffee machines (Single/Double Espresso, Cappuccino, Latte, Grounds Full, Decalcify), dishwashers, robot vacuum/mop bases, hydronic HVAC (Underfloor heating manifold, circulation pumps, stratified buffer tanks, 3-way mixing valves), 3-state window handles (Closed, Tilted, Open), and mmWave radar sensors.
